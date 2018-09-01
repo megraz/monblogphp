@@ -1,0 +1,46 @@
+body {
+    font-family: 'Comfortaa', cursive;
+}
+
+nav {
+    box-sizing: content-box;
+}
+
+nav a {
+    color: #df247c;
+    padding-left: 20px;
+}
+
+nav a:hover {
+    color: #928d97;
+    text-decoration: none;
+}
+
+ul,
+li {
+    margin: 0;
+    padding: 10px;
+    list-style: none;
+    font-size: 24px;
+    /* font-weight: bold; */
+    display: flex;
+}
+
+li a {
+    color: #e91e63;
+    text-decoration: none;
+}
+
+.menu :hover {
+    color: #a31545;
+    text-decoration: none;
+}
+
+input[type="submit"] {
+    box-sizing: content-box;
+}
+
+.hello {
+    margin-left: 50px;
+    margin-top: 30px;
+}

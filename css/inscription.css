@@ -1,0 +1,15 @@
+body {
+    font-family: 'Comfortaa', cursive;
+    /* background: #bcb5c2; */
+    background: #dad2e2;
+}
+
+h1 {
+    margin-left: 30px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+.formulaire {
+    margin-left: 30px;
+}
